@@ -23,9 +23,9 @@
 
 #### Program output
 
-![Caesar Cipher Encryption](./caesar_encrypt.png){ width=100% }
+![Caesar Cipher Encryption](./caesar_encrypt.png)
 
-![Caesar Cipher Decryption](./caesar_decrypt.png){ width=100% }
+![Caesar Cipher Decryption](./caesar_decrypt.png)
 
 ### Monoalphabetic cipher
 
@@ -52,6 +52,6 @@
 
 #### Program output
 
-![Monoalphabetic Cipher Encryption](./monoalpha_encrypt.png){ width=100% }
+![Monoalphabetic Cipher Encryption](./monoalpha_encrypt.png)
 
-![Monoalphabetic Cipher Decryption](./monoalpha_decrypt.png){ width=100% }
+![Monoalphabetic Cipher Decryption](./monoalpha_decrypt.png)
